@@ -65,7 +65,7 @@ Teď je řada na tobě abys kladl otázky ty, nepřerušoval a naslouchal tvému
 
 1. **Co se podle tebe stalo? / Co se děje?** => Zeptej se kolegy, jak předmět konfliktu vidí on. 
 2. **Jak se kolem toho cítíš?** => Zeptej se kolegy, jaké má kolem celé situace emoce.
-3. **Pokud se mnou neshouhlasíš, proč si myslíš, že to bylo/je dobře?** => Zeptej se kolegy, proč si myslí, že postupoval dobře? Snaž se do něj vcítit a jeho motivaci pochopit.
+3. **Pokud se mnou nesouhlasíš, proč si myslíš, že to bylo/je dobře?** => Zeptej se kolegy, proč si myslí, že postupoval dobře? Snaž se do něj vcítit a jeho motivaci pochopit.
 4. **Co ode mě potřebuješ, aby se to stalo / změnilo** => Zeptej se kolegy, co potřebuje od tebe, aby ti byl schopný vyhovět.
 
 Společně se domluvte na dalším postupu.
@@ -78,7 +78,7 @@ Zvaž, zda-li se s kolegou nedomluvit na retrospektivě po nějaké době. Na n�
 
 ## Když za tebou někdo přijde řešit konflikt
 
-Důležité je také vědět, jak se chovat na druhá straně konfliktu. Pokud za tebou kolega přijde a chce s tebou řešit problém, je fér mu vyjít vstříc a pozorně poslouchat, co chce říct. Neber konflikt jako osobní útok, ale jako možnost se zlepšit a dozvědět se víc o tom, jak tvé počínání vnímají ostatní.
+Důležité je také vědět, jak se chovat na druhé straně konfliktu. Pokud za tebou kolega přijde a chce s tebou řešit problém, je fér mu vyjít vstříc a pozorně poslouchat, co chce říct. Neber konflikt jako osobní útok, ale jako možnost se zlepšit a dozvědět se víc o tom, jak tvé počínání vnímají ostatní.
 
 Pokus se nejprve zjistit, v čem kolega vidí problém a porozumět jeho úhlu pohledu. Potom mu vysvětli svoje motivace a proč jsi si myslel/a, že děláš správnou věc. Stejně jako druhá strana se snaž držet věci bez emocí a racionálně přemýšlet nad úhlem pohledu svého kolegy.
 
